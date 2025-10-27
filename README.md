@@ -8,9 +8,9 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou **Analista de Dados** formado em Análise e Desenvolvimento de Sistemas, especializado em extrair insights valiosos de conjuntos de dados complexos.
+Sou **Analista de Dados**, formado em Análise e Desenvolvimento de Sistemas, especializado em extrair insights valiosos de conjuntos de dados complexos.
 
-Minha trajetória profissional inclui 10 anos de experiência profissional e **3 anos de experiência consolidada em gestão de pessoal e liderança de equipes**. Nessa função, apliquei princípios analíticos para otimizar o desempenho da equipe e gerenciar recursos de forma eficiente, desenvolvendo uma forte habilidade para resolver problemas sob pressão e tomar decisões baseadas em evidências.
+Minha trajetória profissional conta com mais de 10 anos de experiência profissional e **3 anos de experiência consolidada em gestão de pessoal e liderança de equipes**. Nessa função, apliquei princípios analíticos para otimizar o desempenho da equipe e gerenciar recursos de forma eficiente, desenvolvendo uma forte habilidade para resolver problemas sob pressão e tomar decisões baseadas em evidências.
 
 Agora, utilizo essa perspectiva analítica e disciplinada para focar exclusivamente na análise de dados, ajudando organizações a identificar tendências e impulsionar resultados de negócios.
 
