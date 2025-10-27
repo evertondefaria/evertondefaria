@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Olá! 👋 Eu sou Everton de Faria</h1>
+  <h1 align="center">Everton de Faria</h1>
   <h3 align="center">Analista de Dados | Python | SQL | Power BI</h3>
   <p align="center">
     Transformando dados em decisões estratégicas e otimizando processos com foco em resultados.
