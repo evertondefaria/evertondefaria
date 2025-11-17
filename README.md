@@ -14,7 +14,7 @@ Minha trajetória profissional conta com mais de 10 anos de experiência profiss
 
 Agora, utilizo essa perspectiva analítica e disciplinada para focar exclusivamente na análise de dados, ajudando organizações a identificar tendências e impulsionar resultados de negócios.
 
-* 🌱 Atualmente, estou aprofundando meus conhecimentos em **Data Science** e **DEVOPS**
+* 🌱 Atualmente, estou aprofundando meus conhecimentos em **Análise de Dados** e **Back-End**
 * 🚀 Buscando ativamente desafios onde posso aplicar minha combinação única de habilidades técnicas e de gestão.
 * 📫 Como entrar em contato: **amaranteseverton@gmail.com**
 
