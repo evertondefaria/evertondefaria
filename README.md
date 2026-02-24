@@ -40,12 +40,13 @@ Sou **Analista de Dados**, Tecnólogo formado em Análise e Desenvolvimento de S
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 </div>
 
-### 💻 Linguagens e Bancos de Dados
+### 💻 Linguagens, Web e Bancos de Dados
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </div>
 
 ### ⚙️ Infraestrutura e Versionamento
@@ -63,15 +64,6 @@ Sou **Analista de Dados**, Tecnólogo formado em Análise e Desenvolvimento de S
 | :--- | :--- | :--- |
 | **[Nome do Projeto 1]** | *[Em construção] Breve descrição do problema resolvido e do impacto gerado.* | Python, SQL, Power BI |
 | **[Nome do Projeto 2]** | *[Em construção] Breve descrição da análise exploratória ou modelo preditivo desenvolvido.* | Pandas, NumPy |
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertondefaria&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertondefaria&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 ---
 
