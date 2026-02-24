@@ -62,13 +62,14 @@ Sou **Analista de Dados**, Tecnólogo formado em Análise e Desenvolvimento de S
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **[Nome do Projeto 1]** | *[Em construção] Breve descrição do problema resolvido e do impacto gerado.* | Python, SQL, Power BI |
-| **[Nome do Projeto 2]** | *[Em construção] Breve descrição da análise exploratória ou modelo preditivo desenvolvido.* | Pandas, NumPy |
+| **[Tech Layoffs Brasil Analysis](https://github.com/evertondefaria/seu-repositorio)** | Análise exploratória de dados sobre demissões em massa no setor de tecnologia brasileiro, identificando padrões, setores mais atingidos e tendências temporais. | Python (Pandas/Seaborn), SQL |
+| **[Workshop Manager API](https://github.com/evertondefaria/seu-repositorio)** | API para gerenciamento de oficinas mecânicas desenvolvida com NestJS, focada em arquitetura modular e escalabilidade. | TypeScript, NestJS, Node.js |
 
 ---
 
 ## 🌱 No que estou trabalhando?
-- 🔭 Atualmente desenvolvendo projetos focados em **Ciência de Dados e Inteligência Artificial**.
+- 📊 Desenvolvendo uma análise profunda sobre o fenômeno de **Layoffs em empresas Tech no Brasil**.
+- 🔭 Atualmente focado em projetos de **Ciência de Dados e Inteligência Artificial**.
 - 📚 Cursando Pós-graduação em **IA e Ciência de Dados**.
 - 💬 Pergunte-me sobre: **Análise de Dados, Machine Learning, Gestão de Times e SQL**.
 
