@@ -32,13 +32,12 @@ Sou **Analista de Dados**, Tecnólogo formado em Análise e Desenvolvimento de S
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 📊 Análise, Dados e IA
+### 📊 Análise e Dados
 <div align="left">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
 </div>
 
 ### 💻 Linguagens e Bancos de Dados
@@ -54,7 +53,6 @@ Sou **Analista de Dados**, Tecnólogo formado em Análise e Desenvolvimento de S
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </div>
 
 ---
@@ -64,16 +62,14 @@ Sou **Analista de Dados**, Tecnólogo formado em Análise e Desenvolvimento de S
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
 | **[Nome do Projeto 1]** | *[Em construção] Breve descrição do problema resolvido e do impacto gerado.* | Python, SQL, Power BI |
-| **[Nome do Projeto 2]** | *[Em construção] Breve descrição da análise exploratória ou modelo preditivo desenvolvido.* | Pandas, Scikit-learn |
-
-*(Nota: Adicione os links e descrições dos seus repositórios reais na tabela acima à medida que for construindo seu portfólio).*
+| **[Nome do Projeto 2]** | *[Em construção] Breve descrição da análise exploratória ou modelo preditivo desenvolvido.* | Pandas, NumPy |
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertondefaria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertondefaria&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertondefaria&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
