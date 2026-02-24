@@ -62,8 +62,17 @@ Sou **Analista de Dados**, Tecnólogo formado em Análise e Desenvolvimento de S
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **[Tech Layoffs Brasil Analysis](https://github.com/evertondefaria/)** | Análise exploratória de dados sobre demissões em massa no setor de tecnologia brasileiro, identificando padrões, setores mais atingidos e tendências temporais. | Python (Pandas/Seaborn), SQL |
-| **[Workshop Manager API]([https://github.com/evertondefaria/Workshop-Manager-API])** | API para gerenciamento de oficinas mecânicas desenvolvida com NestJS, focada em arquitetura modular e escalabilidade. | TypeScript, NestJS, Node.js |
+| **[Tech Layoffs Brasil Analysis](https://github.com/evertondefaria)** | Análise exploratória de dados sobre demissões em massa no setor tech brasileiro, identificando padrões e tendências temporais. | Python (Pandas/Seaborn), SQL |
+| **[Workshop Manager API](https://github.com/evertondefaria/Workshop-Manager-API)** | API para gerenciamento de oficinas mecânicas desenvolvida com NestJS, focada em arquitetura modular e escalabilidade. | TypeScript, NestJS, Node.js |
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertondefaria&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertondefaria&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ---
 
