@@ -67,15 +67,6 @@ Sou **Analista de Dados**, Tecnólogo formado em Análise e Desenvolvimento de S
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertondefaria&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertondefaria&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
-
 ## 🌱 No que estou trabalhando?
 - 📊 Desenvolvendo uma análise profunda sobre o fenômeno de **Layoffs em empresas Tech no Brasil**.
 - 🔭 Atualmente focado em projetos de **Ciência de Dados e Inteligência Artificial**.
