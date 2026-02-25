@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Everton de Faria</h1>
-  <h3 align="center">Analista de Dados | IA & Ciência de Dados | Python | SQL | Power BI</h3>
+  <h3 align="center">Analista de Dados | IA & Ciência de Dados | Python | SQL | Power BI | Excel</h3>
   <p align="center">
     Transformando dados em decisões estratégicas e otimizando processos com foco em resultados.
   </p>
@@ -69,9 +69,9 @@ Sou **Analista de Dados**, Tecnólogo formado em Análise e Desenvolvimento de S
 
 ## 🌱 No que estou trabalhando?
 - 📊 Desenvolvendo uma análise profunda sobre o fenômeno de **Layoffs em empresas Tech no Brasil**.
-- 🔭 Atualmente focado em projetos de **Ciência de Dados e Inteligência Artificial**.
+- 🔭 Atualmente focado em projetos de **Análise de Dados**.
 - 📚 Cursando Pós-graduação em **IA e Ciência de Dados**.
-- 💬 Pergunte-me sobre: **Análise de Dados, Machine Learning, Gestão de Times e SQL**.
+- 💬 Pergunte-me sobre: **Análise de Dados, Gestão de Times e Excel**.
 
 <br>
 <p align="center">
