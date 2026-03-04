@@ -71,7 +71,6 @@ Sou **Analista de Dados**, Tecnólogo formado em Análise e Desenvolvimento de S
 - 📊 Desenvolvendo uma análise profunda sobre o fenômeno de **Layoffs em empresas Tech no Brasil**.
 - 🔭 Atualmente focado em projetos de **Análise de Dados**.
 - 📚 Cursando Pós-graduação em **IA e Ciência de Dados**.
-- 💬 Pergunte-me sobre: **Análise de Dados, Gestão de Times e Excel**.
 
 <br>
 <p align="center">
